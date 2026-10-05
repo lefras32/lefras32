@@ -19,9 +19,9 @@ I am a passionate software developer focused on modern web technologies, Web3/Bl
 
 ### 📂 Featured Projects
 
-*   🛡️ **[Security-Web-Scanner](https://github.com)** — An asynchronous web vulnerability scanner built with FastAPI. It performs quick audits of HTTP security headers and misconfigurations.
-*   🌐 **[lefry](https://github.com)** — A modern Ethereum blockchain explorer application. Developed using Next.js, TypeScript, and Ethers.js for seamless Web3 interaction.
-*   🤖 **[Minecraft AI Projects](https://github.com)** — Practical experiments with automation, custom client utilities, and AI agent integration within gaming environments.
+*   🛡️ **[Security-Web-Scanner]([https://github.com](https://github.com/lefras32/Security-Web-Scanner))** — An asynchronous web vulnerability scanner built with FastAPI. It performs quick audits of HTTP security headers and misconfigurations.
+*   🌐 **[lefry]([https://github.com](https://github.com/lefras32/lefry))** — A modern Ethereum blockchain explorer application. Developed using Next.js, TypeScript, and Ethers.js for seamless Web3 interaction.
+*   🤖 **[Minecraft AI Projects]([https://github.com](https://github.com/lefras32/Minecraft-AI-comrade-MUDAK))** — Practical experiments with automation, custom client utilities, and AI agent integration within gaming environments.
 
 ---
 
