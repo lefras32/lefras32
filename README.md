@@ -11,21 +11,17 @@ I am a passionate software developer focused on modern web technologies, Web3/Bl
 
 ### 🧰 Tech Stack
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="C#" />
-  
-  <br/>
-  
- <!-- Frameworks, Libraries & Engines -->
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="FastAPI" />
-  <img src="https://shields.io" alt="Ethers.js" />
-  <img src="https://shields.io" alt="Unity" />
-</p>
+**Languages:**  
+![Python](https://shields.io) 
+![JavaScript](https://shields.io) 
+![TypeScript](https://shields.io) 
+![C#](https://shields.io)
+
+**Frameworks & Engines:**  
+![Next.js](https://shields.io) 
+![FastAPI](https://shields.io) 
+![Ethers.js](https://shields.io) 
+![Unity](https://shields.io)
 
 ---
 
