@@ -30,11 +30,10 @@ I am a passionate software developer focused on modern web technologies, AI inte
 
 ### 📂 Featured Projects
 
-* 🤖 **[ai-gateway-orchestrator](https://github.com)** — An asynchronous FastAPI gateway scaffold for OpenAI-compatible LLMs. Features exact Redis caching, semantic caching backed by PostgreSQL/pgvector, SSE responses, and a bounded ReAct agent runner inside a secure Docker sandbox.
-* 🛡️ **[Security-Web-Scanner](https://github.com)** — An asynchronous web vulnerability scanner built with FastAPI. It performs quick automated audits of HTTP security headers and common misconfigurations.
-* 🌐 **[lefry](https://github.com)** — A modern Ethereum blockchain explorer application. Developed using Next.js, TypeScript, and Ethers.js for seamless Web3 data interaction.
-* 🎮 **[Minecraft AI Projects](https://github.com)** — Practical experiments with automation, custom client utilities, and AI agent integration within gaming environments.
-
+- 🤖 **[ai-gateway-orchestrator](https://github.com/lefras32/ai-gateway-orchestrator)** — An asynchronous FastAPI gateway scaffold for OpenAI-compatible LLMs. Features exact Redis caching, semantic caching backed by PostgreSQL/pgvector, SSE responses, and a bounded ReAct agent runner inside a secure Docker sandbox.
+- 🛡️ **[Security-Web-Scanner](https://github.com/lefras32/Security-Web-Scanner)** — An asynchronous web vulnerability scanner built with FastAPI. It performs quick automated audits of HTTP security headers and common misconfigurations.
+- 🌐 **[lefry](https://github.com/lefras32/lefry)** — A modern Ethereum blockchain explorer application. Developed using Next.js, TypeScript, and Ethers.js for seamless Web3 data interaction.
+- 🎮 **[Minecraft AI Projects](https://github.com/lefras32/Minecraft-AI-comrade-MUDAK)** — Practical experiments with automation, custom client utilities, and AI agent integration within gaming environments.
 ---
 
 ### 💬 Connect with Me
