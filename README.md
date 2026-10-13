@@ -12,13 +12,14 @@ I am a passionate software developer focused on modern web technologies, AI inte
 ### 🧰 Tech Stack
 
 * **Languages:**  
-  `Python` | `TypeScript` | `JavaScript` | `C#`
+  ![Python](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![C#](https://shields.io)
 
 * **Frameworks & AI Stack:**  
-  `FastAPI` | `Next.js` | `🤖 LangChain` | `Redis` | `PostgreSQL`
+  ![FastAPI](https://shields.io) ![Next.js](https://shields.io) ![Redis](https://shields.io) ![PostgreSQL](https://shields.io)
 
 * **Web3 & Tools:**  
-  `Ethers.js` | `Docker` | `Unity`
+  ![Ethereum](https://shields.io) ![Docker](https://shields.io) ![Unity](https://shields.io)
+
 
 ---
 
