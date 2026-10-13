@@ -37,7 +37,7 @@ I am a passionate software developer focused on modern web technologies, AI inte
 ---
 
 ### 💬 Connect with Me
-* 🌐 **GitHub:** [://github.com](https://://github.com)
+* 🌐 **GitHub:** https://github.com/lefras32
 * 💬 **Discord:** `lefras32`
 
 ---
