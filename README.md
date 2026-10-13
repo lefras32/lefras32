@@ -12,13 +12,14 @@ I am a passionate software developer focused on modern web technologies, AI inte
 ### 🧰 Tech Stack
 
 **Languages**
-
-<a href="https://python.org"><img src="https://githubusercontent.com" alt="python" width="40" height="40"/></a> <a href="https://typescriptlang.org"><img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/></a> <a href="https://mozilla.org"><img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/></a> <a href="https://microsoft.com"><img src="https://githubusercontent.com" alt="csharp" width="40" height="40"/></a>
+   
+![Python](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![C#](https://shields.io)
 
 **Tools & Platforms**
+   
+![FastAPI](https://shields.io) ![Next.js](https://shields.io) ![Redis](https://shields.io) ![PostgreSQL](https://shields.io) ![Docker](https://shields.io) ![Unity](https://shields.io)
 
-<a href="https://tiangolo.com"><img src="https://githubusercontent.com" alt="fastapi" width="40" height="40"/></a> <a href="https://nextjs.org"><img src="https://githubusercontent.com" alt="nextjs" width="40" height="40"/></a> <a href="https://redis.io"><img src="https://githubusercontent.com" alt="redis" width="40" height="40"/></a> <a href="https://postgresql.org"><img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/></a> <a href="https://docker.com"><img src="https://githubusercontent.com" alt="docker" width="40" height="40"/></a>
-
+---
 
 ### 📂 Featured Projects
 
