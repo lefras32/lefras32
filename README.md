@@ -30,8 +30,9 @@ I am a passionate software developer focused on modern web technologies, AI inte
 
 ### 📂 Featured Projects
 
+- 🎙️ **[Real-time Local Voice AI Assistant](https://github.com/lefras32/Real-time-Local-Voice-AI-Assistant)** — High-performance, low-latency local voice assistant. Features WebSocket audio streaming, browser `AudioWorklet` capturing, local STT via `faster-whisper`, sentence-chunked streaming from local LLMs (Qwen 3.5), and real-time TTS synthesis.
 - 🤖 **[ai-gateway-orchestrator](https://github.com/lefras32/ai-gateway-orchestrator)** — An asynchronous FastAPI gateway scaffold for OpenAI-compatible LLMs. Features exact Redis caching, semantic caching backed by PostgreSQL/pgvector, SSE responses, and a bounded ReAct agent runner inside a secure Docker sandbox.
-- 🛡️ **[Security-Web-Scanner](https://github.com/lefras32/Security-Web-Scanner)** — An asynchronous web vulnerability scanner built with FastAPI. It performs quick automated audits of HTTP security headers and common misconfigurations.
+- 🛡️ **[Security-Web-Scanner](https://github.com/lefras32/Security-Web-Scanner)** — An asynchronous web vulnerability scanner built with FastAPI. Performs automated audits of HTTP security headers and common web misconfigurations.
 - 🌐 **[lefry](https://github.com/lefras32/lefry)** — A modern Ethereum blockchain explorer application. Developed using Next.js, TypeScript, and Ethers.js for seamless Web3 data interaction.
 - 🎮 **[Minecraft AI Projects](https://github.com/lefras32/Minecraft-AI-comrade-MUDAK)** — Practical experiments with automation, custom client utilities, and AI agent integration within gaming environments.
 ---
