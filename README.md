@@ -19,10 +19,11 @@ I am a passionate software developer focused on modern web technologies, AI inte
   ![Python](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![C#](https://shields.io)
 
 * **Frameworks & AI Stack:**  
-  ![FastAPI](https://shields.io) ![Next.js](https://shields.io) ![LangChain](https://shields.io⛓️-blue?style=flat-square) ![Redis](https://shields.io) ![PostgreSQL](https://shields.io)
+  ![FastAPI](https://shields.io) ![Next.js](https://shields.io) ![LangChain](https://shields.io🤖%20LangChain-🔗-blue?style=for-the-badge) ![Redis](https://shields.ioredis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://shields.iopostgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 * **Web3 & Tools:**  
-  ![Ethers.js](https://shields.io) ![Docker](https://shields.io) ![Unity](https://shields.io)
+  ![Ethereum](https://shields.ioethers.js-%233C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white) ![Docker](https://shields.iodocker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Unity](https://shields.iounity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 
 ---
 
